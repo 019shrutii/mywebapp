@@ -20,7 +20,7 @@ spec:
       containers:
       - name: mywebapp
 
-        image: YOUR_DOCKERHUB_USERNAME/mywebapp:latest
+        image: shruti019/mywebapp:latest
 
         ports:
         - containerPort: 80
